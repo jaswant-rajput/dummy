@@ -1,0 +1,51 @@
+﻿email,name,semester,subjects,course,seatNumber
+emma@somaiya.edu,Emma,Sem 1,"[Biological, Cognitive, Developmental, Social, Personality]",Psychology,31000124001
+liam@somaiya.edu,Liam,Sem 6,"[Ethical Hacking, Data Science, MERN, SQL, MPMC]",IT,31000124002
+olivia@somaiya.edu,Olivia,Sem 1,"[Linux, Git, Digital Electronics, C, Graphics]",CS,31000124003
+noah@somaiya.edu,Noah,Sem 5,"[International Business, Strategic Management, Principles of Marketing, Business Culture, Financial Management]",BCOM,31000124004
+ava@somaiya.edu,Ava,Sem 5,"[Communication Skills, Literature, Management, Media Psychology, Marketing]",Mass Media,31000124005
+isabella@somaiya.edu,Isabella,Sem 1,"[C++, Python, C, Operating Systems, SQL]",BCA,31000124006
+sophia@somaiya.edu,Sophia,Sem 1,"[.net technologies, theory of computing, software engineering, advanced java, IOT]",DS,31000124007
+jackson@somaiya.edu,Jackson,Sem 2,"[Clinical, Health, Industrial, Research, Abnormal]",Psychology,31000124008
+lucas@somaiya.edu,Lucas,Sem 1,"[Introduction to Software, MS Excel, MS Word, C++, Linux]",IT,31000124009
+aiden@somaiya.edu,Aiden,Sem 4,"[.net technologies, theory of computing, software engineering, advanced java, IOT]",CS,31000124010
+mia@somaiya.edu,Mia,Sem 2,"[Accounting, Finance, Statistics, Business Communication, Macroeconomics]",BCOM,31000124011
+amelia@somaiya.edu,Amelia,Sem 1,"[Communication Skills, Mass Communication, Economics, Computers, Sociology]",Mass Media,31000124012
+harper@somaiya.edu,Harper,Sem 1,"[C++, Python, C, Operating Systems, SQL]",BCA,31000124013
+evelyn@somaiya.edu,Evelyn,Sem 2,"[Introduction to Software, MS Excel, MS Word, C++, Linux]",DS,31000124014
+abigail@somaiya.edu,Abigail,Sem 1,"[Biological, Cognitive, Developmental, Social, Personality]",Psychology,31000124015
+ella@somaiya.edu,Ella,Sem 1,"[Introduction to Software, MS Excel, MS Word, C++, Linux]",IT,31000124016
+scarlett@somaiya.edu,Scarlett,Sem 3,"[Computer Network, Python, Analytical Skills, Mobile App Development, Core Java]",CS,31000124017
+grace@somaiya.edu,Grace,Sem 4,"[Competition Laws, Consumer Laws, Corporate Accounting, Human Resource, Ecommerce]",BCOM,31000124018
+lily@somaiya.edu,Lily,Sem 1,"[Communication Skills, Mass Communication, Economics, Computers, Sociology]",Mass Media,31000124019
+chloe@somaiya.edu,Chloe,Sem 2,"[Ethical Hacking, Data Science, MERN, SQL, MPMC]",BCA,31000124020
+benjamin@somaiya.edu,Benjamin,Sem 1,"[.net technologies, theory of computing, software engineering, advanced java, IOT]",DS,31000124021
+henry@somaiya.edu,Henry,Sem 2,"[Clinical, Health, Industrial, Research, Abnormal]",Psychology,31000124022
+alexander@somaiya.edu,Alexander,Sem 3,"[C++, Python, C, Operating Systems, SQL]",IT,31000124023
+jack@somaiya.edu,Jack,Sem 4,"[.net technologies, theory of computing, software engineering, advanced java, IOT]",CS,31000124024
+oliver@somaiya.edu,Oliver,Sem 2,"[Accounting, Finance, Statistics, Business Communication, Macroeconomics]",BCOM,31000124025
+samuel@somaiya.edu,Samuel,Sem 3,"[Advertising, Journalism, Organizational Behavior, Radio and Television, Public Opinion and reporting]",Mass Media,31000124026
+elijah@somaiya.edu,Elijah,Sem 4,"[C++, Python, C, Operating Systems, SQL]",BCA,31000124027
+ethan@somaiya.edu,Ethan,Sem 6,"[.net technologies, theory of computing, software engineering, advanced java, IOT]",DS,31000124028
+daniel@somaiya.edu,Daniel,Sem 2,"[Clinical, Health, Industrial, Research, Abnormal]",Psychology,31000124029
+matthew@somaiya.edu,Matthew,Sem 3,"[C++, Python, C, Operating Systems, SQL]",IT,31000124030
+aria@somaiya.edu,Aria,Sem 4,"[.net technologies, theory of computing, software engineering, advanced java, IOT]",CS,31000124031
+ellie@somaiya.edu,Ellie,Sem 5,"[International Business, Strategic Management, Principles of Marketing, Business Culture, Financial Management]",BCOM,31000124032
+scarlett@somaiya.edu,Scarlett,Sem 3,"[Advertising, Journalism, Organizational Behavior, Radio and Television, Public Opinion and reporting]",Mass Media,31000124033
+zoe@somaiya.edu,Zoe,Sem 2,"[Ethical Hacking, Data Science, MERN, SQL, MPMC]",BCA,31000124034
+grace@somaiya.edu,Grace,Sem 4,"[Ethical Hacking, Data Science, MERN, SQL, MPMC]",DS,31000124035
+hannah@somaiya.edu,Hannah,Sem 5,"[Sensation, Perception, Behavioral Learning, Body Language Analysis, Conselling]",Psychology,31000124036
+natalie@somaiya.edu,Natalie,Sem 6,"[Ethical Hacking, Data Science, MERN, SQL, MPMC]",IT,31000124037
+addison@somaiya.edu,Addison,Sem 3,"[Computer Network, Python, Analytical Skills, Mobile App Development, Core Java]",CS,31000124038
+ava@somaiya.edu,Ava,Sem 2,"[Accounting, Finance, Statistics, Business Communication, Macroeconomics]",BCOM,31000124039
+sophia@somaiya.edu,Sophia,Sem 3,"[Advertising, Journalism, Organizational Behavior, Radio and Television, Public Opinion and reporting]",Mass Media,31000124040
+ashley@somaiya.edu,Ashley,Sem 6,"[.net technologies, theory of computing, software engineering, advanced java, IOT]",BCA,31000124041
+mia@somaiya.edu,Mia,Sem 4,"[Ethical Hacking, Data Science, MERN, SQL, MPMC]",DS,31000124042
+olivia@somaiya.edu,Olivia,Sem 5,"[Sensation, Perception, Behavioral Learning, Body Language Analysis, Conselling]",Psychology,31000124043
+emily@somaiya.edu,Emily,Sem 3,"[C++, Python, C, Operating Systems, SQL]",IT,31000124044
+emma@somaiya.edu,Emma,Sem 1,"[Linux, Git, Digital Electronics, C, Graphics]",CS,31000124045
+madison@somaiya.edu,Madison,Sem 3,"[Company Law, Advanced Economics, Tax Laws, Cost Accounting, Entrepreneurship]",BCOM,31000124046
+elizabeth@somaiya.edu,Elizabeth,Sem 5,"[Communication Skills, Literature, Management, Media Psychology, Marketing]",Mass Media,31000124047
+sofia@somaiya.edu,Sofia,Sem 2,"[Ethical Hacking, Data Science, MERN, SQL, MPMC]",BCA,31000124048
+victoria@somaiya.edu,Victoria,Sem 6,"[Linux, Git, Digital Electronics, C, Graphics]",DS,31000124049
+lily@somaiya.edu,Lily,Sem 1,"[Biological, Cognitive, Developmental, Social, Personality]",Psychology,31000124050
